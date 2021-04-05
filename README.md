@@ -1,7 +1,5 @@
 ## Sample Example of Coinbase Animated Tab Header
 
-[Companion blog post link here]()
-
 ### getting started
 
 - yarn install
@@ -11,7 +9,7 @@
 
 - app.tsx - main entry file for app
 - components - product level components
-- lib - generic tab library components (abstraced from Coinbase's internal Design System library)
+- lib - generic tab library components (abstracted from Coinbase's internal Design System library)
 
 ### Dependencies
 
